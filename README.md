@@ -14,4 +14,4 @@ This repository have stock trading learning path
 ## Books to read
 - Ashwini Gujral
 - Martin J Pring
-- Steve Nison
+- Steve Nison (Japanese candle stick charting theory)
